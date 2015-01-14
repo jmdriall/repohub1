@@ -1,0 +1,853 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="44c9b8e9-5cad-4141-b8b1-4b9d51dbda57" name="Default" comment="" />
+    <ignored path="sidcam.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="sidcam" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/views/administrator/home/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="32" column="66" selection-start="1431" selection-end="1431" vertical-scroll-proportion="-17.0" vertical-offset="102" max-vertical-offset="1649">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/application/views/client/planificacion/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="33" column="120" selection-start="2810" selection-end="2810" vertical-scroll-proportion="-0.8720238" vertical-offset="1147" max-vertical-offset="1972">
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="accidentes.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/views/client/indicadores/accidentes.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="169" column="28" selection-start="10633" selection-end="10633" vertical-scroll-proportion="-50.846153" vertical-offset="1551" max-vertical-offset="6749">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="insertC_inspeccion.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/views/client/indicadores/insertC_inspeccion.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="4" column="73" selection-start="194" selection-end="194" vertical-scroll-proportion="-2.6153846" vertical-offset="0" max-vertical-offset="850">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="j.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Desktop/dfg/j.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="5" column="35" selection-start="186" selection-end="186" vertical-scroll-proportion="-3.2692308" vertical-offset="0" max-vertical-offset="374">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="c.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Desktop/dfg/c.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="0" selection-start="157" selection-end="157" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="layout_client.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/views/layouts/layout_client.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="16" column="34" selection-start="907" selection-end="956" vertical-scroll-proportion="-10.153846" vertical-offset="8" max-vertical-offset="850">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="stylec.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/css/stylec.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="824" column="0" selection-start="18206" selection-end="19543" vertical-scroll-proportion="0.0" vertical-offset="13606" max-vertical-offset="15453">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bootstrap.min.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/css/bootstrap.min.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="6" column="0" selection-start="109520" selection-end="109520" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="204">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/application/views/administrator/medida_correctiva/updateMedida_correctiva.php" />
+        <option value="$PROJECT_DIR$/application/controllers/administrator/medida_correctiva.php" />
+        <option value="$PROJECT_DIR$/application/views/client/indicadores/inserMedida_correctiva.php" />
+        <option value="$PROJECT_DIR$/application/views/administrator/medida_correctiva/insertMedida_correctiva.php" />
+        <option value="$PROJECT_DIR$/application/views/client/indicadores/insertMedida_correctiva.php" />
+        <option value="$PROJECT_DIR$/application/models/accidente_model.php" />
+        <option value="$PROJECT_DIR$/application/views/client/indicadores/trabajadores.php" />
+        <option value="$PROJECT_DIR$/application/views/administrator/trabajador/updateTrabajador.php" />
+        <option value="$PROJECT_DIR$/application/views/client/indicadores/insertTrabajador.php" />
+        <option value="$PROJECT_DIR$/application/views/client/indicadores/updateTrabajador.php" />
+        <option value="$PROJECT_DIR$/application/views/client/home/index.php" />
+        <option value="$PROJECT_DIR$/application/views/client/indicadores/insertAccidente.php" />
+        <option value="$PROJECT_DIR$/application/views/client/indicadores/updateAccidente.php" />
+        <option value="$PROJECT_DIR$/application/views/client/indicadores/observacionAccidente.php" />
+        <option value="$PROJECT_DIR$/application/views/client/indicadores/updateMedida_correctiva.php" />
+        <option value="$PROJECT_DIR$/application/views/client/indicadores/insertAuditoria.php" />
+        <option value="$PROJECT_DIR$/application/views/client/indicadores/updateAuditoria.php" />
+        <option value="$PROJECT_DIR$/application/views/client/indicadores/insertControl.php" />
+        <option value="$PROJECT_DIR$/application/views/client/indicadores/controlAuditorias.php" />
+        <option value="$PROJECT_DIR$/application/views/client/indicadores/updateControl.php" />
+        <option value="$PROJECT_DIR$/application/views/client/indicadores/auditorias.php" />
+        <option value="$PROJECT_DIR$/application/views/client/indicadores/insertInspeccion.php" />
+        <option value="$PROJECT_DIR$/application/views/client/indicadores/updateInspeccion.php" />
+        <option value="$PROJECT_DIR$/application/views/client/indicadores/inspecciones.php" />
+        <option value="$PROJECT_DIR$/application/views/client/indicadores/controlInspecciones.php" />
+        <option value="$PROJECT_DIR$/application/views/client/indicadores/insertC_inspeccion.php" />
+        <option value="$PROJECT_DIR$/application/views/client/indicadores/updateC_inspeccion.php" />
+        <option value="$PROJECT_DIR$/application/controllers/client/indicadores.php" />
+        <option value="$PROJECT_DIR$/application/views/include/header.php" />
+        <option value="$PROJECT_DIR$/resources/css/stylec.css" />
+        <option value="$PROJECT_DIR$/application/views/administrator/home/copyindex.php" />
+        <option value="$PROJECT_DIR$/application/controllers/administrator/seguimiento.php" />
+        <option value="$PROJECT_DIR$/application/controllers/administrator/trabajador.php" />
+        <option value="$PROJECT_DIR$/application/controllers/administrator/actividad.php" />
+        <option value="$PROJECT_DIR$/application/models/actividad_model.php" />
+        <option value="$PROJECT_DIR$/application/controllers/administrator/especifico.php" />
+        <option value="$PROJECT_DIR$/application/models/especifico_model.php" />
+        <option value="$PROJECT_DIR$/application/views/client/indicadores/index.php" />
+        <option value="$PROJECT_DIR$/application/views/administrator/home/index.php" />
+        <option value="$PROJECT_DIR$/application/controllers/administrator/objetivo.php" />
+        <option value="$PROJECT_DIR$/application/controllers/administrator/inspeccion.php" />
+        <option value="$PROJECT_DIR$/application/controllers/administrator/accidente.php" />
+        <option value="$PROJECT_DIR$/application/controllers/administrator/user.php" />
+        <option value="$PROJECT_DIR$/application/views/client/indicadores/accidentes.php" />
+        <option value="$PROJECT_DIR$/resources/css/print.css" />
+        <option value="$PROJECT_DIR$/resources/css/bootstrap.min.css" />
+        <option value="$USER_HOME$/Desktop/dfg/c.css" />
+        <option value="$PROJECT_DIR$/application/views/layouts/layout_client.php" />
+        <option value="$USER_HOME$/Desktop/dfg/j.html" />
+        <option value="$PROJECT_DIR$/application/views/client/planificacion/index.php" />
+        <option value="$PROJECT_DIR$/application/views/client/indicadores/medidaCorrectiva.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1616" />
+    <option name="height" value="876" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sidcam" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sidcam" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sidcam" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sidcam" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sidcam" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sidcam" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sidcam" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sidcam" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sidcam" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sidcam" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sidcam" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sidcam" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sidcam" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="client" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sidcam" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sidcam" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="client" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="indicadores" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ae_maternofetal" />
+    <property name="SearchEverywhereHistory" value="tr&#10;SICAMB" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="FullScreen" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\sidcam\application\views\client\indicadores" />
+      <recent name="C:\xampp\htdocs\sidcam\application\models" />
+      <recent name="C:\xampp\htdocs\sidcam\application\language\es" />
+      <recent name="C:\xampp\htdocs\sidcam\application\views\administrator" />
+      <recent name="C:\xampp\htdocs\sidcam\application\controllers\administrator" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\sidcam\resources\images" />
+      <recent name="C:\xampp\htdocs\sidcam\resources\images\backend" />
+      <recent name="C:\xampp\htdocs\sidcam\resources\plugins" />
+      <recent name="C:\xampp\htdocs\sidcam\application\libraries" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="44c9b8e9-5cad-4141-b8b1-4b9d51dbda57" name="Default" comment="" />
+      <created>1416258332462</created>
+      <updated>1416258332462</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32985657" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1944801" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32985657" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="3" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/application/views/client/indicadores/updateAuditoria.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="25" selection-start="1037" selection-end="1037" vertical-scroll-proportion="4.3333335" vertical-offset="612" max-vertical-offset="1649">
+          <folding>
+            <element signature="e#1270#1727#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/client/indicadores/insertControl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="262" selection-start="2366" selection-end="2376" vertical-scroll-proportion="-4.9210525" vertical-offset="204" max-vertical-offset="850">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/client/indicadores/updateControl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="44" column="87" selection-start="3056" selection-end="3056" vertical-scroll-proportion="-5.8157897" vertical-offset="306" max-vertical-offset="1343">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/client/indicadores/insertMedida_correctiva.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="36" column="55" selection-start="2717" selection-end="2717" vertical-scroll-proportion="-23.538462" vertical-offset="0" max-vertical-offset="1207">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/client/indicadores/controlAuditorias.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="40" column="95" selection-start="1673" selection-end="1685" vertical-scroll-proportion="-12.423077" vertical-offset="357" max-vertical-offset="1275">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/client/indicadores/auditorias.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="50" column="85" selection-start="2210" selection-end="2210" vertical-scroll-proportion="-15.038462" vertical-offset="459" max-vertical-offset="1530">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/client/indicadores/ingresarInspeccion.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1955">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/client/indicadores/inspecciones.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="31" selection-start="149" selection-end="149" vertical-scroll-proportion="9.807693" vertical-offset="357" max-vertical-offset="1496">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/client/indicadores/updateInspeccion.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="67" column="57" selection-start="3175" selection-end="3175" vertical-scroll-proportion="-14.986842" vertical-offset="0" max-vertical-offset="1649">
+          <folding>
+            <element signature="e#1272#1729#0" expanded="false" />
+            <marker date="1420566038658" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1420566038658" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1420566038658" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1420566038658" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1420566038658" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1420566038658" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1420566038658" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1420566038658" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1420566038658" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1420566038658" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1420566038658" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1420566038658" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1420566038658" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1420566038658" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1420566038658" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1420566038658" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1420566038658" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1420566038658" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1420566038658" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1420566038658" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1420566038658" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1420566038658" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1420566038658" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1420566038658" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1420566038658" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1420566038658" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1420566038658" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1420566038658" expanded="true" signature="-1:-1" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/client/indicadores/insertInspeccion.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="79" column="33" selection-start="3246" selection-end="3247" vertical-scroll-proportion="-7.48" vertical-offset="969" max-vertical-offset="1887">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/control_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="2907">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/client/indicadores/updateC_inspeccion.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="63" column="267" selection-start="4317" selection-end="4317" vertical-scroll-proportion="1.3665595" vertical-offset="221" max-vertical-offset="1343">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/client/indicadores/controlInspecciones.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="148" selection-start="1252" selection-end="1252" vertical-scroll-proportion="0.50595236" vertical-offset="204" max-vertical-offset="1275">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/include/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="129" selection-start="957" selection-end="957" vertical-scroll-proportion="0.37327188" vertical-offset="97" max-vertical-offset="748">
+          <folding>
+            <element signature="e#1067#1093#0" expanded="true" />
+            <element signature="e#2136#2197#0" expanded="true" />
+            <marker date="1438529252144" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1438529252144" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1438529252144" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1438529252144" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/client/indicadores.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1048" column="8" selection-start="45843" selection-end="46070" vertical-scroll-proportion="-4.647059" vertical-offset="17579" max-vertical-offset="33813">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/capacitacion_work_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.005839416" vertical-offset="4" max-vertical-offset="2924">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/epp_work_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2924">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/objetivo_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="147" column="22" selection-start="3017" selection-end="3024" vertical-scroll-proportion="0.4848485" vertical-offset="2179" max-vertical-offset="2839">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/administrator/home/copyindex.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="42" column="15" selection-start="2000" selection-end="2000" vertical-scroll-proportion="-24.538462" vertical-offset="76" max-vertical-offset="2941">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/administrator/especifico.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="45" selection-start="714" selection-end="812" vertical-scroll-proportion="1.3529412" vertical-offset="562" max-vertical-offset="4522">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/actividad_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="77" column="30" selection-start="1783" selection-end="1800" vertical-scroll-proportion="0.5065693" vertical-offset="962" max-vertical-offset="3179">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/especifico_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="63" column="38" selection-start="1331" selection-end="1356" vertical-scroll-proportion="-12.307693" vertical-offset="751" max-vertical-offset="3060">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/administrator/c_inspeccion.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-1.0686132" vertical-offset="732" max-vertical-offset="4420">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/c_inspeccion_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="17.653847" vertical-offset="459" max-vertical-offset="2907">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/accidente_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="90" selection-start="456" selection-end="456" vertical-scroll-proportion="-0.65384614" vertical-offset="340" max-vertical-offset="3128">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/administrator/actividad.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="287" column="16" selection-start="10875" selection-end="11194" vertical-scroll-proportion="-5.607843" vertical-offset="4593" max-vertical-offset="5253">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/medida_correctiva_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.74452555" vertical-offset="510" max-vertical-offset="2907">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/accidente_trabajador_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="73" column="5" selection-start="1822" selection-end="1822" vertical-scroll-proportion="0.39854014" vertical-offset="968" max-vertical-offset="2924">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/client/indicadores/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="263" column="65" selection-start="15061" selection-end="15061" vertical-scroll-proportion="-7.882353" vertical-offset="4069" max-vertical-offset="6783">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/body_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="23" selection-start="438" selection-end="448" vertical-scroll-proportion="-12.423077" vertical-offset="102" max-vertical-offset="1989">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/administrator/seguimiento.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="234" column="16" selection-start="8178" selection-end="8602" vertical-scroll-proportion="-6.647059" vertical-offset="3639" max-vertical-offset="4386">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/administrator/trabajador.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="326" column="74" selection-start="10427" selection-end="11117" vertical-scroll-proportion="-20.23077" vertical-offset="5016" max-vertical-offset="5814">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/administrator/objetivo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="232" column="16" selection-start="7553" selection-end="8744" vertical-scroll-proportion="-7.076923" vertical-offset="3760" max-vertical-offset="4522">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/administrator/inspeccion.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="235" column="75" selection-start="8274" selection-end="8274" vertical-scroll-proportion="-15.653846" vertical-offset="3588" max-vertical-offset="4403">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/administrator/accidente.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="247" column="16" selection-start="8927" selection-end="9757" vertical-scroll-proportion="0.3459854" vertical-offset="3962" max-vertical-offset="4692">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/css/bootstrap-theme.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-8.363368" vertical-offset="5662" max-vertical-offset="7616">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/administrator/archivo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="426" column="16" selection-start="17892" selection-end="18576" vertical-scroll-proportion="0.29107982" vertical-offset="7056" max-vertical-offset="7735">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/administrator/user.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="435" column="0" selection-start="16658" selection-end="16658" vertical-scroll-proportion="0.22727273" vertical-offset="7245" max-vertical-offset="7905">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="0" selection-start="611" selection-end="611" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="5083">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DRa0.194/bootstrap-3.1.1-dist/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="121220" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="98447">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/css/print.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5785" column="0" selection-start="127588" selection-end="127588" vertical-scroll-proportion="0.0" vertical-offset="97668" max-vertical-offset="98447">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/css/stylec.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="824" column="0" selection-start="18206" selection-end="19543" vertical-scroll-proportion="0.0" vertical-offset="13606" max-vertical-offset="15453">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="0" selection-start="109520" selection-end="109520" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="204">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/dfg/c.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="0" selection-start="157" selection-end="157" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/dfg/j.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="35" selection-start="186" selection-end="186" vertical-scroll-proportion="-3.2692308" vertical-offset="0" max-vertical-offset="374">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/administrator/home/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="66" selection-start="1431" selection-end="1431" vertical-scroll-proportion="-17.0" vertical-offset="102" max-vertical-offset="1649">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/layouts/layout_client.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="34" selection-start="907" selection-end="956" vertical-scroll-proportion="-10.153846" vertical-offset="8" max-vertical-offset="850">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/client/indicadores/accidentes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="169" column="28" selection-start="10633" selection-end="10633" vertical-scroll-proportion="-50.846153" vertical-offset="1551" max-vertical-offset="6749">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/client/indicadores/medidaCorrectiva.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="49" column="70" selection-start="2417" selection-end="2417" vertical-scroll-proportion="0.50384027" vertical-offset="505" max-vertical-offset="1360">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/client/indicadores/insertC_inspeccion.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="73" selection-start="194" selection-end="194" vertical-scroll-proportion="-2.6153846" vertical-offset="0" max-vertical-offset="850">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/client/planificacion/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="120" selection-start="2810" selection-end="2810" vertical-scroll-proportion="-0.8720238" vertical-offset="1147" max-vertical-offset="1972">
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+

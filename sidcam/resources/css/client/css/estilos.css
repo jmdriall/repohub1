@@ -1,0 +1,94 @@
+.boton {
+    border-bottom: 1px solid rgba(255,255,255,0.2);
+    text-shadow: 0 1px 0 rgba(0,0,0,0.2);
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #FFF;
+    font-weight: bold;
+    border-radius: 5px;
+    padding: 10px 20px;
+    margin: 13px 3px;
+    position: relative;
+    display: inline-block;
+    /* Animacion del boton compatible con diferentes navegadores */
+    -webkit-transition: all 0.1s;
+    -moz-transition: all 0.1s;
+    -o-transition: all 0.1s;
+    transition: all 0.1s;
+}
+.boton:active {
+    -webkit-transform: translateY(7px);
+    -moz-transform: translateY(7px);
+    -o-transform: translateY(7px);
+    transform: translateY(7px);
+}
+.boton1 {
+    background: #ccccfe;
+    box-shadow: 0 10px 0 #9696A6,
+                0 11px 5px rgba(0,0,0,0.5);
+}
+.boton1:active {
+    box-shadow: 0 3px 0 #9696A6,
+                0 4px 6px rgba(0,0,0,0.7);
+}
+.boton1:focus{
+    background-color: #000005;
+    box-shadow: 0 10px 0 #a3a3a3,
+    0 11px 5px rgba(0,0,0,0.5);
+}
+.boton2 {
+    background: #6599ff;
+    box-shadow: 0 10px 0 #6782B6,
+                0 11px 5px rgba(0,0,0,0.5);
+}
+.boton2:active {
+    box-shadow: 0 3px 0 #6782B6,
+                0 4px 6px rgba(0,0,0,0.7);
+}
+.boton2:focus{
+    background-color: #000005;
+    box-shadow: 0 10px 0 #a3a3a3,
+    0 11px 5px rgba(0,0,0,0.5);
+}
+.boton3 {
+    background: #ff6600;
+    box-shadow: 0 10px 0 #D35C0C,
+                0 11px 5px rgba(0,0,0,0.5);
+}
+.boton3:active {
+    box-shadow: 0 3px 0 #D35C0C,
+                0 4px 6px rgba(0,0,0,0.7);
+}
+.boton3:focus{
+    background-color: #000005;
+    box-shadow: 0 10px 0 #a3a3a3,
+    0 11px 5px rgba(0,0,0,0.5);
+}
+.boton4 {
+    background: #99cc33;
+    box-shadow: 0 10px 0 #84A83B,
+                0 11px 5px rgba(0,0,0,0.5);
+}
+.boton4:active {
+    box-shadow: 0 3px 0 #84A83B,
+                0 4px 6px rgba(0,0,0,0.7);
+}
+.boton4:focus{
+    background-color: #000005;
+    box-shadow: 0 10px 0 #a3a3a3,
+    0 11px 5px rgba(0,0,0,0.5);
+}
+.boton5 {
+    background: #cc66cc;
+    box-shadow: 0 10px 0 #A160A1,
+                0 11px 5px rgba(0,0,0,0.5);
+}
+.boton5:active {
+    box-shadow: 0 3px 0 #A160A1,
+                0 4px 6px rgba(0,0,0,0.7);
+}
+.boton5:focus{
+    background-color: #000005;
+    box-shadow: 0 10px 0 #a3a3a3,
+    0 11px 5px rgba(0,0,0,0.5);
+}

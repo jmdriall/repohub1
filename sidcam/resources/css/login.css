@@ -1,0 +1,146 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	border:0;
+	padding:0;
+	margin:0;
+	background-color:#FFFFFF;
+	font-family:Arial, Helvetica, sans-serif;
+	color:#595959;
+	font-size:12px;
+	}
+
+h1{
+	margin-bottom:0px;
+	margin-top:5px;
+	margin-left:10px;
+	}
+
+#margin_content{
+	width:100%;
+	background-image:url(../images/login/login_background.jpg);
+	background-repeat:repeat-x;
+	margin-top:15%;
+	margin-bottom:50px;
+	float:left;
+	}
+
+#content{
+	width:680px;
+	margin:0 auto;
+	}
+
+#content_left{
+	width:35%;
+	float:left;
+	}
+
+#content_right{
+	width:65%;
+	float:left;
+	}
+
+#box_top{
+	float:left;
+	width:100%;
+	}
+
+#box_content{
+	float:left;
+	width:415px;
+	background-image:url(../images/login/login_content.jpg);
+	background-repeat:repeat-x;
+	border-left:#000000 solid 1px;
+	border-right:#000000 solid 1px;
+	}
+
+#box_bottom{
+	float:left;
+	width:100%;
+	}
+
+#fields_form{
+	float:left;
+	width:75%;
+	}
+
+#button_form{
+	float:left;
+	width:25%;
+	margin-top:20px;
+	}
+	
+.label_form{
+	margin:0;
+	margin-top:10px;
+	margin-bottom:10px;
+	margin-left:10px;
+	font-weight:bold;
+	font-size:14px;
+	}
+
+#submit_button{
+	padding-top:20px;
+	padding-bottom:20px;
+	background-color:#000000;
+	color:#FFFFFF;
+	border:#CCCCCC solid 2px;
+	}
+
+#submit_button:hover{
+	background-color:#999999;
+	color:#000000;
+	}
+
+a.link_login{
+	color:#000000;
+	text-decoration:underline;
+	font-weight:bold;
+	}
+
+a.link_login:hover{
+	text-decoration:none;
+	}
+
+
+/* footer */
+#margin_footer{
+	width:100%;
+	float:left;
+	border-top:#999999 solid 2px;
+	background-color:#FFFFFF;
+	}
+
+#footer{
+	margin:0 auto;
+	width:950px;
+	font-size:10px;
+	}
+
+#footer p{
+	margin-top:10px;
+	margin-bottom:10px;
+	}
+
+#footer_left{
+	float:left;
+	width:30%;
+	}
+
+#footer_right{
+	float:right;
+	width:30%;
+	}
+
+.warning{
+	color:#CC3300;
+	}
+
+a.link_dbox{
+	color:#0C82AA;
+	}
+
+a.link_dbox:hover{
+	text-decoration:none;
+	}
